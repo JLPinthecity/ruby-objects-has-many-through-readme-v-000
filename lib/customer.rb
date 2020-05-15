@@ -13,6 +13,6 @@ class Customer
     @@all
   end
 
-  
-  
+
+
 end
